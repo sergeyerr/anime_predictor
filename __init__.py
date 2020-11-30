@@ -1,0 +1,1 @@
+from anime_predictor import anime_predict
